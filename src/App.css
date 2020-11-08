@@ -1,0 +1,53 @@
+body {
+    font-family: 'Open Sans', sans-serif !important;
+}
+
+a:link {
+    color: #212529;
+    text-decoration: none !important;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: #212529 !important;
+    text-decoration: none !important;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: #212529 !important;    
+    text-decoration: none !important;
+  }
+  
+  /* selected link */
+  a:active {
+    color: #212529 !important;
+    text-decoration: none !important;
+  }
+
+.Main {
+    margin-top: 40px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.Navigation .dropdown {
+    margin-right: 8px;
+}
+
+.Navigation .logo {
+    width: 30px; /* Width of new image */
+    height: 30px; /* Height of new image */
+}
+.Navigation .navbar-brand {
+    margin-right: 50px;
+}
+
+.hidden {
+    display: none;
+}
+
+.console {
+    font-family: 'Inconsolata', monospace;
+    font-size: 13px;
+}
